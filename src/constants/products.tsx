@@ -2,7 +2,7 @@ import Projects from "public/images/project.jpg";
 import Nexolinx1 from "public/images/Nexolinx.jpeg";
 import Nexolinx2 from "public/images/image1.png"
 import Nexolinx3 from "public/images/nexo-logo.jpg"
-import Crimson1 from "public/images/crimson.png"
+import Crimson1 from "public/images/Crimson.png"
 import Crimson2 from "public/images/crimson1.png"
 import Crimson3 from "public/images/crimson2.png"
 import Gyan from "public/images/gyan.jpg"
