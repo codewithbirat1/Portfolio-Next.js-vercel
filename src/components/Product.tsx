@@ -46,8 +46,8 @@ export const SingleProduct = ({ product }: { product: Product }) => {
             <Image
               src={image}
               alt="product thumbnail"
-              height="1000"
-              width="1000"
+              height="800"
+              width="800"
               className="w-full h-14 md:h-40 object-cover object-top mr-4 mb-r border rounded-lg border-neutral-100"
             />
           </button>
